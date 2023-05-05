@@ -1,5 +1,5 @@
 {
-	"name": "maxlg-git/commerce-ml",
+	"name": "arsengoian/commerce-ml",
 	"description": "Easy-peasy CommerceML 2.10 PHP library",
 	"license": "Apache-2.0",
 	"authors": [{
@@ -14,11 +14,11 @@
 	},
 	"minimum-stability": "dev",
 	"require": {
-		"php": ">=7.4.0",
+		"php": ">=7.1.0",
       	"ext-json": "*",
         "ext-dom": "*"
     },
 	"require-dev": {
-		"phpunit/phpunit": "^6.5"
+		"phpunit/phpunit": "6.5"
 	}
 }
